@@ -1,2 +1,2 @@
-# alx_be_shell
-Shell Command Tasks 
+# Shell Command Tasks
+This repository contains scripts for learning shell permissions in ALX's software engineering program. 
